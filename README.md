@@ -4,8 +4,7 @@ A tiny macOS menu bar app for jumping to apps. Press a hotkey, then tap **1–4*
 
 <p align="center"><img src="docs/popup.png" width="328" alt="Hop's popup: four app icons labelled 1 to 4"></p>
 
-If you already use ⌘1–⌘4 for your favourite apps but can't comfortably reach ⌘5–⌘8, Hop gives you a second row.
-Press the hotkey and a small glass bar shows four more apps. Tap a number and you're there.
+Press the hotkey and a small glass bar shows your four apps. Tap a number and you're there.
 
 ## Features
 
